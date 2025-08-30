@@ -45,4 +45,13 @@ User authentication
 Multi-user chat history management
 
 <img width="796" height="342" alt="image" src="https://github.com/user-attachments/assets/aa95d23a-f5e3-47c1-b7a8-3a049e233fb2" />
+ADDING MULTIPLE DOCUMENTS
+
+<img width="744" height="568" alt="image" src="https://github.com/user-attachments/assets/9a10d14d-2519-4ead-945e-c7abcfab271f" />
+Main Interface
+
+<img width="1275" height="729" alt="image" src="https://github.com/user-attachments/assets/7be25210-e4c0-4844-ac4e-cf61d6d96c42" />
+Chat History
+
+
 
