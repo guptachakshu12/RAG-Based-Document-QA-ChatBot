@@ -64,7 +64,8 @@ Main Interface
 
 
 
-<img width="1275" height="729" alt="image" src="https://github.com/user-attachments/assets/7be25210-e4c0-4844-ac4e-cf61d6d96c42" />
+<img width="1915" height="452" alt="Screenshot 2026-09-19 142933" src="https://github.com/user-attachments/assets/483af4b5-c07c-43a5-9ab1-1eb23d4ddff1" />
+
 Chat History
 
 
