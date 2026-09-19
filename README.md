@@ -53,10 +53,11 @@ LLM Answer Generation
 
 ADDING MULTIPLE DOCUMENTS
 
+<img width="1917" height="917" alt="Screenshot 2026-09-19 142622" src="https://github.com/user-attachments/assets/ef964273-3842-4aeb-a882-6a02009d41d9" />
 
 
 
-<img width="744" height="568" alt="image" src="https://github.com/user-attachments/assets/9a10d14d-2519-4ead-945e-c7abcfab271f" />
+
 Main Interface
 
 
