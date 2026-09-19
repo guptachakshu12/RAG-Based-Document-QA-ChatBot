@@ -1,3 +1,5 @@
+DEPLOYED STREAMLIT LINK: https://guptachakshu12-rag-based-document-qa-chatbot-app-5usxdd.streamlit.app/
+
 # 🧠 RAG-Based Document QA Chatbot
 
 A production-style AI application that allows users to upload documents and ask natural language questions using **Retrieval-Augmented Generation (RAG)** to deliver accurate, context-aware answers.
