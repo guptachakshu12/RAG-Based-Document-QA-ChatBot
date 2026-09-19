@@ -48,7 +48,8 @@ Relevant Context Retrieval
 ↓
 LLM Answer Generation
 
-![Uploading image.png…]()
+<img width="1901" height="915" alt="Screenshot 2026-09-19 142329" src="https://github.com/user-attachments/assets/1989c9af-608d-4e34-90ab-afb135079394" />
+
 
 ADDING MULTIPLE DOCUMENTS
 
