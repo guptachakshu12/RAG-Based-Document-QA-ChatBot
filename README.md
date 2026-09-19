@@ -48,8 +48,8 @@ Relevant Context Retrieval
 ↓
 LLM Answer Generation
 
+![Uploading image.png…]()
 
-<img width="796" height="342" alt="image" src="https://github.com/user-attachments/assets/aa95d23a-f5e3-47c1-b7a8-3a049e233fb2" />
 ADDING MULTIPLE DOCUMENTS
 
 
